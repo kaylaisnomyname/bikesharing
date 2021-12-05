@@ -25,7 +25,7 @@ Tableau
 
 ###### image 4:  
 ![usages per weekday per hour](https://github.com/kaylaisnomyname/bikesharing/blob/main/images/usages%20per%20weekday%20per%20hour.png?raw=true)  
-4. Image 4 breakdowns the usages per weekday per hour. Weekday 7~10am and 5~8pm are the busiest hours. In contract, weekends the busy hous are in the middle of the day. Saturday is busier than Sunday.
+4. Image 4 breakdowns the usages per weekday per hour. Weekday 7am ~ 10am and 5pm ~ 8pm are the busiest hours. In contract, weekends the busy hous are in the middle of the day. Saturday is busier than Sunday.
 
 ###### imgage 5:  
 ![usage per weekday per hour per gender](https://github.com/kaylaisnomyname/bikesharing/blob/main/images/usages%20per%20weekday%20per%20hour%20per%20gender.png?raw=true)  
@@ -37,20 +37,20 @@ Tableau
 
 ## Summary  
   
-In short, among the 2.3 million records, 81% are annual subscribers, 19% are daily-pass or 3-day-pass customers. The overal usages that indicating weekday morning and afternoon rush hours imply that subscribers tend to commute to work/school by bike. While pass-based customers usages are more on the weekends between 11am~8pm which is reasonalbe time for visiting city attractions or sight seeing.  
+In short, among the 2.3 million records, 81% are annual subscribers, 19% are daily-pass or 3-day-pass customers. The overal usages that indicating weekday morning and afternoon rush hours imply that subscribers tend to commute to work/school by bike. While pass-based customers usages are more on the weekends between 11am~8pm which is reasonalbe time for visiting city attractions or sightseeing.  
 According to the usages, bike maintenance could be scheduled at the less popular hours of the day, for incidence 1am ~ 5am. 
 
 
-Pssible further analysis : 
+Possible further analysis : 
 - Trips vs age  [link to image 7](https://public.tableau.com/app/profile/kayla1042/viz/Challenge14Overalltripsvsage/tripsvsage?publish=yes)  
 ###### image 7  
-![per age 1]()  
+![per age 1](https://github.com/kaylaisnomyname/bikesharing/blob/main/images/trip%20vs%20ages.png?raw=true)  
 Image 7 shows the number of trips by age. The majority counts of trips are from age 16 to 70s, where the most trips are by age 50 and around 30.
 
 - Trips vs location
 ###### image 8  
-![per age 2]()  
-Image 8 shows the end location of the trips. Brown color circles are smaller counts of trips, darker blue circle indicate more counts of trips. As shown in the image, the darker blue spots are closed to major stations, such as the Grand Central Terminal, and schools, such as Stuyvesant High School. 
+![per age 2](https://github.com/kaylaisnomyname/bikesharing/blob/main/images/trips%20vs%20location.png?raw=true)  
+Image 8 shows the end location of the trips. Brown color circles are smaller counts of trips, darker blue circles indicate more counts of trips. As shown in the image, the darker blue spots are closed to major stations, such as the Grand Central Terminal, and schools, such as Stuyvesant High School. 
 
 
 
