@@ -38,7 +38,8 @@ Tableau
 ## Summary  
   
 In short, among the 2.3 million records, 81% are annual subscribers, 19% are daily-pass or 3-day-pass customers. The overal usages that indicating weekday morning and afternoon rush hours imply that subscribers tend to commute to work/school by bike. While pass-based customers usages are more on the weekends between 11am~8pm which is reasonalbe time for visiting city attractions or sightseeing.  
-According to the usages, bike maintenance could be scheduled at the less popular hours of the day, for incidence 1am ~ 5am. 
+According to the usages, bike maintenance could be scheduled at the less popular hours of the day, for incidence 1am ~ 5am.   
+
 There are about 65% of male users, 25% female users, and the rest are unknown-gender users. Considering the Trips vs Age as shown in image 7 below, the majority counts of trips are in between early 20s to 65. It is possible that the bikes are in one size, which is more fit for male users and middle age adults. It would be nice to have bikes in smaller sizes that could fit better for smaller figure body, or female or younger users. 
 
 Possible further analysis : 
